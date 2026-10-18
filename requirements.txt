@@ -1,0 +1,9 @@
+streamlit
+reportlab
+plotly
+openpyxl
+pymongo
+python-dotenv
+# Optional: only needed if you set ANTHROPIC_API_KEY for smarter AI feedback
+# anthropic
+bcrypt>=4.0.0
